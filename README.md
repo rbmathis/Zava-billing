@@ -1,2 +1,5 @@
 # Zava-billing
-[FlowLens Demo] Billing, invoicing, subscription management — Team: Billing, Group: Payments
+
+Billing, invoicing, subscription management
+
+Update 1 by James Chen
