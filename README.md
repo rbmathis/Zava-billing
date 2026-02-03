@@ -2,4 +2,4 @@
 
 Billing, invoicing, subscription management
 
-Update 1 by James Chen
+Update 2 by Aisha Okafor
